@@ -1,66 +1,28 @@
-<h1 align="center">Hi 👋, I'm Vinoth Kumar C</h1>
-<h3 align="center">A passionate Laravel developer from TamilNadu</h3>
+# Hello World👋
+<pre>
+V&#8467;n&#248;th Kum&#229;r &#8450;
+</pre>
+[![Twitter](https://img.shields.io/twitter/follow/cvinoth95?label=Follow)](https://twitter.com/intent/follow?screen_name=cvinoth95)
+[![Linkedin](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinoth-kumar-c-02a121226)](https://www.linkedin.com/in/vinoth-kumar-c-02a121226)
+![Profile Views](https://komarev.com/ghpvc/?username=vinothkumar95&label=👁️)
 
-<!-- <p align="left"> <img src="icons/profilecount.svg" alt="vinothkumar" /> </p> -->
+### Development Environment:
 
-<p align="left"> <a href="https://github.com/vinothkumar95"><img src="https://avatars.githubusercontent.com/u/120662401?s=200&u=fd30a1f8eba6fd2281ad00df4412e3724fb3cb68&v=4" alt="https://github.com/vinothkumar95" /></a> </p>
+[![UBUNTU](https://img.shields.io/badge/ubuntu-%230078D6.svg?&style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/vinothkumar95)
+[![RAM](https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white)](https://github.com/vinothkumar95)
+[![COREI7](https://img.shields.io/badge/Intel-Core_i7-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://github.com/vinothkumar95)
 
-<p align="left"> <a href="https://x.com/cvinoth99" target="blank"><img src="https://img.shields.io/twitter/follow/cvinoth99" alt="https://x.com/cvinoth99" /></a> </p>
+<a href="https://github-contributor-stats.vercel.app/api?username=vinothkumar95&title_color=006AFF&text_color=417E87&icon_color=0579C3&bg_color=ffffff00&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true" target="_blank">
+  <img src="https://github-contributor-stats.vercel.app/api?username=vinothkumar95&title_color=006AFF&text_color=417E87&icon_color=0579C3&bg_color=ffffff00&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api?username=vinothkumar95&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&rank_icon=percentile&theme=transparent" target="_blank">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=vinothkumar95&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&rank_icon=percentile&theme=transparent" />
+</a>
 
-- 🌱 I’m currently learning **React, Next.js and AWS**
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vinothkumar95&layout=donut&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=transparent" target="_blank">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinothkumar95&layout=donut&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=transparent" />
+</a>
 
-<!-- - 👨‍💻 All of my projects are available at [www.vinoth.com](www.vinoth.com) -->
-
-<!-- - 📝 I regularly write articles on [www.vinoth.com](www.vinoth.com) -->
-
-- 💬 Ask me about **Php, Laravel and CodeIgniter**
-
-- 📫 How to reach me **cvinoth95@outlook.com**
-
-<!-- - 📄 Know about my experiences [www.vinoth.com/resume](www.vinoth.com/resume) -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://codepen.io/cvk95" target="blank"><img align="center" src="icons/codepen.svg" alt="vinothkumar" height="30" width="40" /></a> -->
-<!-- <a href="https://dev.to/vinoth_kumar_50102fe61d36" target="blank"><img align="center" src="icons/devto.svg" alt="https://dev.to/vinoth_kumar_50102fe61d36" height="30" width="40" /></a> -->
-<a href="www.linkedin.com/in/vinoth-kumar-c-02a121226" target="blank"><img align="center" src="icons/linkedin.svg" alt="vinothkumar" height="30" width="40" /></a>
-<!-- <a href="https://stackoverflow.com/users/26446622/vinoth-kumar" target="blank"><img align="center" src="icons/stack-overflow.svg" alt="vinothkumar" height="30" width="40" /></a> -->
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <!-- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-        <img src="icons/aws.svg" alt="aws" width="40" height="40"/> </a>  -->
-    <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> 
-        <img src="icons/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="icons/css.svg" alt="css3" width="40" height="40"/> </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="icons/git.svg" alt="git" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="icons/html.svg" alt="html5" width="40" height="40"/> 
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">     
-        <img src="icons/javascript.svg" alt="javascript" width="40" height="40"/> 
-    </a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-        <img src="icons/laravel.svg" alt="laravel" width="40" height="40"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-        <img src="icons/mongodb.svg" alt="mongodb" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="icons/mysql.svg" alt="mysql" width="40" height="40"/> 
-    </a>
-    </a> 
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="icons/php.svg" alt="php" width="40" height="40"/> 
-    </a> 
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-        <img src="icons/postman.svg" alt="postman" width="40" height="40"/> 
-    </a> 
-    <a href="https://redis.io" target="_blank" rel="noreferrer"> 
-        <img src="icons/redis.svg" alt="redis" width="40" height="40"/> 
-    </a> 
-</p>
+<a href="https://github-readme-activity-graph.vercel.app/graph?username=vinothkumar95&bg_color=0000000&color=0579C3&line=0579C3&point=417E87&area_color=006AFF&area=true&hide_border=true" target="_blank">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinothkumar95&bg_color=0000000&color=0579C3&line=0579C3&point=417E87&area_color=006AFF&area=true&hide_border=true" />
+</a>
