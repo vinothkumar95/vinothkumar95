@@ -1,28 +1,82 @@
-# Hello World👋
-<pre>
-V&#8467;n&#248;th Kum&#229;r &#8450;
-</pre>
-[![Twitter](https://img.shields.io/twitter/follow/cvinoth95?label=Follow)](https://twitter.com/intent/follow?screen_name=cvinoth95)
-[![Linkedin](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinoth-kumar-c-02a121226)](https://www.linkedin.com/in/vinoth-kumar-c-02a121226)
-![Profile Views](https://komarev.com/ghpvc/?username=vinothkumar95&label=👁️)
+# 👋 Hi, I'm Vinoth kumar C !
 
-### Development Environment:
+Welcome to my GitHub profile!  
+I'm a passionate **Software programmer** who loves building impactful projects and continuously learning new technologies.
 
-[![UBUNTU](https://img.shields.io/badge/ubuntu-%230078D6.svg?&style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/vinothkumar95)
-[![RAM](https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white)](https://github.com/vinothkumar95)
-[![COREI7](https://img.shields.io/badge/Intel-Core_i7-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://github.com/vinothkumar95)
+---
 
-<a href="https://github-contributor-stats.vercel.app/api?username=vinothkumar95&title_color=006AFF&text_color=417E87&icon_color=0579C3&bg_color=ffffff00&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true" target="_blank">
-  <img src="https://github-contributor-stats.vercel.app/api?username=vinothkumar95&title_color=006AFF&text_color=417E87&icon_color=0579C3&bg_color=ffffff00&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api?username=vinothkumar95&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&rank_icon=percentile&theme=transparent" target="_blank">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=vinothkumar95&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&rank_icon=percentile&theme=transparent" />
-</a>
+## 🚀 About Me
+- 💼 Actively seeking opportunities in **Software Development** / **Machine Learning** / **AI Engineering**.
+- 🎯 Strong focus on **problem-solving**, **building real-world apps**, and **continuous upskilling**.
+- 🌱 Currently expanding my skills in **Generative AI**, **Machine Learning**, and **DevOps**.
+- 🔥 I believe in **building and sharing** — Open-source contributions and personal projects are my way of learning.
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vinothkumar95&layout=donut&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=transparent" target="_blank">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinothkumar95&layout=donut&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=transparent" />
-</a>
+---
 
-<a href="https://github-readme-activity-graph.vercel.app/graph?username=vinothkumar95&bg_color=0000000&color=0579C3&line=0579C3&point=417E87&area_color=006AFF&area=true&hide_border=true" target="_blank">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinothkumar95&bg_color=0000000&color=0579C3&line=0579C3&point=417E87&area_color=006AFF&area=true&hide_border=true" />
-</a>
+## 🛠️ Skills
+
+### Programming Languages
+- Python | JavaScript | Php | React | SQL | NodeJs
+
+### Backend & APIs
+- Node.js | Laravel | CodeIgniter | FastAPI
+- REST APIs | GraphQL APIs
+
+### Frontend (Basics)
+- React.js | Next.js | HTML | CSS | Tailwind CSS
+
+### Databases
+-  MySQL | MongoDB | Redis
+
+### Cloud & DevOps (Basics)
+- AWS (EC2, S3, Lambda)
+- Firebase (Realtime Database, Firestore, Authentication)
+- Docker 
+
+### Machine Learning
+- Scikit-Learn | TensorFlow | Qdrant | Meilisearch
+- Building Custom LLMs & AI chatbots
+
+### Tools
+- Git & GitHub | Postman | VS Code | Linux (Ubuntu) | Bitbucket | Jira
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinothkumar95&show_icons=true&theme=radical" alt="vinothkumar95" />
+</p>
+
+---
+
+## 🌟 Contributions & Projects
+- 🔥 Building a **Daily Tamil Vocabulary Notification App** (Learning Firebase and Backend Hosting 🚀)
+- 📚 Training a **Custom Tamil Language Model** for Generative AI
+- 💬 Developing **Semantic Search** with **Qdrant** + **Next.js** Frontend
+- 🛒 E-commerce Loyalty AI: Improving **Coupon Redemption** using ML
+- 🎯 Regularly contributing to open-source and sharing learnings.
+
+---
+
+## 📫 How to reach me?
+- 📧 [cvinoth95@outlook.com]
+- 🌐 [[LinkedIn](https://www.linkedin.com/in/vinoth-kumar-c-02a121226)]
+- 📝 [Portfolio Website Link] *(optional but good to have)*
+
+---
+
+## 🧠 Philosophy
+> *"Code is like poetry — simplicity and clarity wins."*  
+> I believe in writing **clean**, **scalable**, and **impactful** code.
+
+---
+
+## 🔥 Fun Facts
+- 🎵 Love listening to Ilayaraja songs while coding!
+- 🛤 Exploring how AI can be used for preserving Tamil language digitally.
+- 🧠 Always learning, always curious.
+
+---
+
+Thank you for visiting my profile! ⭐
