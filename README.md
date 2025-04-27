@@ -67,7 +67,7 @@ I'm a passionate **Software programmer** who loves building impactful projects a
 ---
 
 ## 🧠 Philosophy
-> *"Code is like poetry — simplicity and clarity wins."*  
+> *"Technology must serve humanity, not dominate it."*  
 > I believe in writing **clean**, **scalable**, and **impactful** code.
 
 ---
